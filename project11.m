@@ -1,5 +1,5 @@
 % Project 11: Investigating the Onset of Chaos in the Logistic Map
-% Tyson, Soung Bin
+% Tyson Shannon, Soung Bin Kwon
 % Logistic Map Bifurcation Analysis with Lyapunov Exponent Calculation
 clc; clear; close all;
 tic %start program timer
